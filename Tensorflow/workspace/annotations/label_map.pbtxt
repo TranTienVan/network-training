@@ -1,0 +1,8 @@
+item { 
+	name:'Kangaroo'
+	id: 1
+}
+item { 
+	name:'Koala'
+	id: 2
+}
